@@ -45,17 +45,17 @@ Evaluacija:
 
   Korišćene metrike:
   
-  - Accuracy
-  
-  - Precision
-  
-  - Recall
-  
-  - F1-score
-  
-  - Confusion Matrix
-  
-  - ROC-AUC
+    - Accuracy
+    
+    - Precision
+    
+    - Recall
+    
+    - F1-score
+    
+    - Confusion Matrix
+    
+    - ROC-AUC
   
   Random Forest je postigao bolje rezultate od Logistic Regression-a, posebno na recall-u za klasu "canceled", što je ciljano zbog poslovnog konteksta.
   
