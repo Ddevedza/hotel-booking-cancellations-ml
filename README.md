@@ -74,16 +74,19 @@ Rezultati:
 
   Matrica konfuzije - Logisticka regresija:
 
-  - Recall (canceled=1): ~0.71
-  - Accuracy: ~0.78
+  - Recall (canceled=1): ~0.77
+  - Accuracy: ~0.81
 
-  <img width="472" height="354" alt="image" src="https://github.com/user-attachments/assets/f486e480-2285-490c-83c8-a76f430f9a6a" />
+  <img width="471" height="351" alt="image" src="https://github.com/user-attachments/assets/7c11e331-82ec-4bae-a430-c74bdb044729" />
+
+
 
   Matrica konfuzije - Random Forest:
 
   - Recall (canceled=1): ~0.82
-  - Accuracy: ~0.84
+  - Accuracy: ~0.88
 
-  <img width="518" height="347" alt="image" src="https://github.com/user-attachments/assets/837adc1f-f4b4-4d9c-b62c-9d08ad4221a5" />
+  ![Uploading image.png…]()
+
 
 
