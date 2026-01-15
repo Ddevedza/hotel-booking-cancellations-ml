@@ -86,7 +86,8 @@ Rezultati:
   - Recall (canceled=1): ~0.82
   - Accuracy: ~0.88
 
-  ![Uploading image.png…]()
+  <img width="517" height="346" alt="image" src="https://github.com/user-attachments/assets/1c5fa18a-dcac-4088-a620-014e65ff8b0c" />
+
 
 
 
